@@ -1,0 +1,220 @@
+,IndividualProject,Age,Gender,City,Influenced,Perseverance,DesireToTakeInitiative,Competitiveness,SelfReliance,StrongNeedToAchieve,SelfConfidence,GoodPhysicalHealth,MentalDisorder,KeyTraits
+0,No,19,Male,Yes,No,2,2,3,3,2,2,3,Yes,Passion
+1,Yes,22,Male,No,Yes,3,3,3,4,4,3,4,Yes,Vision
+2,No,18,Male,Yes,No,3,4,3,3,3,4,4,No,Passion
+3,Yes,20,Male,Yes,Yes,3,3,3,3,4,3,3,No,Resilience
+4,Yes,19,Male,Yes,Yes,2,3,3,3,4,3,2,Yes,Vision
+5,No,19,Male,Yes,Yes,3,3,3,3,3,3,3,No,Positivity
+6,Yes,19,Male,Yes,Yes,3,2,3,3,4,1,1,No,Work Ethic
+7,No,20,Male,Yes,Yes,4,2,4,4,5,3,4,Yes,Work Ethic
+8,Yes,20,Male,Yes,Yes,2,3,3,1,2,2,2,No,Passion
+9,Yes,17,Male,Yes,Yes,2,3,2,1,4,3,3,Yes,Work Ethic
+10,Yes,19,Male,Yes,No,3,3,3,4,3,5,4,No,Resilience
+11,Yes,19,Male,Yes,Yes,3,3,4,4,5,4,5,No,Passion
+12,Yes,19,Male,Yes,Yes,4,4,4,4,4,4,3,Yes,Work Ethic
+13,No,21,Male,Yes,Yes,4,3,4,4,5,4,4,No,Vision
+14,No,20,Male,No,Yes,2,1,2,3,3,2,3,No,Passion
+15,No,18,Male,Yes,Yes,3,4,3,3,4,4,5,No,Positivity
+16,Yes,20,Male,Yes,Yes,3,2,3,2,3,2,2,Yes,Vision
+17,No,21,Male,Yes,No,4,3,4,4,4,4,4,No,Positivity
+18,No,19,Male,Yes,Yes,4,4,4,5,5,3,4,No,Passion
+19,No,20,Female,Yes,Yes,3,4,4,5,5,2,4,Yes,Passion
+20,No,19,Male,Yes,No,1,3,2,3,3,2,3,Yes,Vision
+21,No,21,Female,Yes,Yes,4,5,4,4,5,4,4,No,Positivity
+22,No,19,Male,Yes,Yes,2,3,3,2,3,2,3,No,Vision
+23,Yes,19,Male,Yes,Yes,5,5,5,5,5,5,5,No,Vision
+24,Yes,20,Male,Yes,Yes,3,3,3,4,3,3,3,No,Work Ethic
+25,No,18,Male,Yes,Yes,3,4,3,4,5,4,4,No,Vision
+26,Yes,21,Male,Yes,Yes,3,3,3,3,3,3,3,No,Passion
+27,No,20,Male,Yes,No,4,4,4,4,4,4,4,No,Work Ethic
+28,No,23,Female,Yes,Yes,2,3,3,3,3,3,3,No,Work Ethic
+29,No,18,Male,Yes,Yes,4,4,4,5,5,4,3,No,Passion
+30,Yes,17,Male,Yes,Yes,3,5,2,4,5,3,5,Yes,Work Ethic
+31,No,18,Male,Yes,Yes,3,3,4,3,3,3,3,No,Work Ethic
+32,No,19,Male,Yes,Yes,4,4,4,4,4,4,4,No,Vision
+33,Yes,22,Male,No,No,4,3,5,5,4,2,4,No,Resilience
+34,No,19,Male,Yes,Yes,3,3,3,4,5,5,3,No,Positivity
+35,Yes,21,Male,Yes,Yes,4,4,3,4,4,3,5,No,Passion
+36,No,19,Male,Yes,No,3,4,4,3,3,4,3,No,Work Ethic
+37,No,23,Male,No,Yes,5,4,4,3,5,4,4,No,Passion
+38,No,18,Male,Yes,No,3,4,4,5,5,3,5,No,Positivity
+39,No,21,Male,Yes,No,3,4,3,3,3,4,4,No,Positivity
+40,No,18,Male,No,Yes,3,4,2,3,3,4,4,No,Positivity
+41,Yes,20,Male,Yes,No,4,1,3,4,5,2,2,Yes,Positivity
+42,Yes,26,Male,No,Yes,2,3,2,3,3,2,3,Yes,Vision
+43,No,20,Female,Yes,Yes,5,4,5,5,5,4,5,No,Positivity
+44,No,20,Female,No,No,5,4,5,5,4,5,4,Yes,Passion
+45,Yes,21,Male,Yes,No,4,4,5,5,4,4,3,No,Positivity
+46,Yes,20,Female,Yes,No,5,3,4,4,5,3,3,No,Work Ethic
+47,Yes,20,Male,Yes,Yes,4,5,5,4,4,4,4,No,Positivity
+48,Yes,19,Female,Yes,Yes,1,1,1,1,1,1,1,No,Positivity
+49,Yes,21,Female,Yes,Yes,4,5,5,5,5,4,4,Yes,Passion
+50,Yes,20,Male,Yes,Yes,2,2,2,3,3,3,2,No,Vision
+51,Yes,20,Female,Yes,Yes,5,5,5,4,5,4,4,No,Positivity
+52,No,19,Male,Yes,Yes,3,2,2,2,3,1,2,No,Work Ethic
+53,Yes,21,Male,Yes,Yes,4,5,5,5,4,5,5,No,Work Ethic
+54,Yes,19,Male,Yes,Yes,4,4,5,5,5,5,5,Yes,Passion
+55,No,20,Female,Yes,No,3,4,4,5,4,3,4,No,Positivity
+56,No,20,Female,Yes,Yes,3,4,3,5,4,5,3,No,Positivity
+57,Yes,19,Male,Yes,No,3,3,3,4,2,4,4,Yes,Work Ethic
+58,Yes,20,Male,Yes,Yes,3,5,5,4,5,2,4,Yes,Passion
+59,Yes,19,Male,Yes,Yes,3,4,3,3,4,3,4,Yes,Work Ethic
+60,Yes,19,Female,Yes,No,4,5,4,4,5,5,3,Yes,Positivity
+61,No,19,Male,Yes,Yes,3,5,4,5,5,5,3,No,Positivity
+62,No,20,Male,Yes,Yes,5,5,5,5,5,5,5,No,Positivity
+63,Yes,19,Male,Yes,Yes,2,3,1,2,2,1,3,No,Passion
+64,Yes,22,Male,No,No,5,5,5,5,5,5,5,No,Positivity
+65,No,19,Male,No,Yes,4,5,5,5,4,4,5,No,Passion
+66,Yes,20,Male,Yes,Yes,3,4,4,3,4,3,5,No,Work Ethic
+67,No,20,Male,Yes,Yes,4,4,3,4,4,3,5,No,Positivity
+68,Yes,24,Male,Yes,Yes,4,5,5,4,4,4,5,Yes,Work Ethic
+69,No,19,Male,Yes,Yes,2,2,3,3,3,1,2,No,Resilience
+70,No,19,Male,Yes,Yes,2,2,3,2,3,3,2,No,Resilience
+71,No,20,Male,Yes,Yes,4,4,5,4,4,4,4,No,Positivity
+72,No,20,Female,Yes,Yes,4,4,3,4,5,3,3,No,Vision
+73,Yes,21,Female,Yes,No,2,2,2,3,2,2,2,Yes,Resilience
+74,No,19,Male,Yes,Yes,5,5,3,5,5,3,3,Yes,Positivity
+75,Yes,21,Female,Yes,No,4,4,5,4,3,3,3,No,Passion
+76,Yes,20,Male,Yes,Yes,5,4,4,4,5,4,5,Yes,Vision
+77,No,19,Male,No,Yes,4,5,4,5,5,4,4,Yes,Vision
+78,Yes,19,Male,Yes,Yes,5,5,5,4,4,5,5,Yes,Resilience
+79,Yes,21,Male,Yes,No,2,3,3,3,3,3,3,No,Positivity
+80,No,19,Male,Yes,Yes,3,3,3,3,4,2,3,No,Positivity
+81,Yes,19,Female,Yes,Yes,4,4,4,4,4,5,4,Yes,Vision
+82,Yes,19,Female,No,Yes,3,5,4,5,5,5,5,No,Resilience
+83,No,19,Male,Yes,No,4,5,4,4,5,5,4,No,Positivity
+84,No,18,Male,Yes,Yes,4,4,3,4,5,5,4,Yes,Vision
+85,No,20,Male,Yes,Yes,1,1,1,5,5,5,5,Yes,Positivity
+86,No,19,Male,No,Yes,4,5,5,5,5,4,5,Yes,Passion
+87,Yes,20,Male,Yes,Yes,4,4,4,4,4,4,4,No,Positivity
+88,No,20,Male,Yes,Yes,3,2,3,2,2,3,3,No,Vision
+89,Yes,20,Male,Yes,No,4,5,4,5,5,3,4,No,Passion
+90,Yes,21,Male,Yes,Yes,4,3,3,5,4,3,4,Yes,Positivity
+91,Yes,20,Male,No,No,3,4,3,4,5,2,3,No,Vision
+92,Yes,22,Male,Yes,Yes,2,5,5,3,4,4,5,Yes,Positivity
+93,Yes,20,Male,Yes,Yes,4,5,5,4,4,5,4,No,Positivity
+94,No,19,Male,Yes,Yes,3,3,2,2,3,3,3,No,Positivity
+95,No,20,Male,Yes,Yes,3,3,3,4,4,3,4,Yes,Passion
+96,Yes,18,Female,Yes,No,4,5,5,4,5,4,4,No,Passion
+97,No,21,Male,No,No,4,4,4,4,4,4,4,No,Passion
+98,No,22,Male,Yes,Yes,2,2,3,3,3,3,3,No,Passion
+99,No,19,Male,No,Yes,5,4,5,5,5,4,3,No,Vision
+100,No,19,Female,Yes,Yes,4,3,3,4,5,4,3,No,Passion
+101,No,19,Male,No,Yes,3,5,3,3,5,5,2,No,Vision
+102,No,19,Male,Yes,Yes,4,3,3,4,5,5,5,No,Passion
+103,Yes,20,Male,Yes,Yes,3,3,5,3,5,4,2,Yes,Vision
+104,Yes,20,Female,Yes,No,5,4,5,5,5,5,3,Yes,Work Ethic
+105,No,20,Male,Yes,Yes,4,4,5,5,5,5,5,No,Passion
+106,Yes,20,Male,Yes,No,5,4,4,4,4,5,3,No,Work Ethic
+107,Yes,22,Male,No,Yes,3,4,4,4,5,5,5,No,Passion
+108,Yes,19,Male,Yes,Yes,4,3,5,4,5,4,3,Yes,Work Ethic
+109,Yes,20,Male,Yes,Yes,5,5,5,5,4,5,4,Yes,Passion
+110,No,20,Male,Yes,No,5,4,4,5,5,4,5,No,Vision
+111,No,19,Female,Yes,Yes,3,5,2,4,4,4,2,No,Positivity
+112,Yes,20,Male,Yes,Yes,5,5,4,4,5,5,3,No,Positivity
+113,Yes,20,Male,Yes,No,4,3,5,4,5,4,4,No,Positivity
+114,No,19,Male,Yes,Yes,4,4,4,5,5,4,5,No,Positivity
+115,Yes,20,Male,Yes,Yes,5,5,5,5,4,4,4,No,Work Ethic
+116,Yes,18,Male,Yes,No,2,3,3,2,2,2,3,No,Positivity
+117,No,17,Male,Yes,No,5,4,4,5,5,5,5,No,Positivity
+118,Yes,19,Male,No,Yes,3,4,5,5,5,4,5,No,Work Ethic
+119,No,20,Male,Yes,No,2,3,3,2,3,2,2,Yes,Positivity
+120,No,20,Female,Yes,Yes,4,4,3,4,5,4,3,No,Positivity
+121,Yes,20,Male,Yes,Yes,3,5,5,5,3,4,5,No,Vision
+122,Yes,20,Female,Yes,No,3,4,4,4,4,3,3,No,Passion
+123,Yes,21,Male,Yes,Yes,5,3,4,4,4,4,3,No,Positivity
+124,Yes,20,Male,Yes,Yes,2,3,2,1,2,3,2,Yes,Vision
+125,No,20,Female,Yes,No,5,5,5,5,5,5,5,No,Work Ethic
+126,Yes,21,Male,Yes,Yes,3,5,5,4,5,5,4,No,Positivity
+127,Yes,21,Male,Yes,Yes,4,4,4,4,4,4,4,No,Positivity
+128,Yes,20,Female,Yes,Yes,4,5,4,4,4,5,4,No,Positivity
+129,No,19,Male,Yes,Yes,3,3,3,3,3,3,3,No,Positivity
+130,Yes,20,Female,Yes,Yes,3,5,4,4,5,4,4,No,Positivity
+131,Yes,19,Male,Yes,Yes,4,3,3,3,4,4,4,No,Passion
+132,Yes,20,Female,Yes,Yes,3,4,4,4,5,5,3,No,Passion
+133,No,19,Female,Yes,Yes,4,5,5,4,5,4,3,No,Passion
+134,Yes,20,Male,Yes,Yes,3,3,3,4,4,4,4,Yes,Work Ethic
+135,Yes,19,Male,Yes,Yes,3,3,3,3,3,3,3,No,Passion
+136,No,20,Male,Yes,No,1,2,1,2,3,2,2,No,Positivity
+137,Yes,19,Male,Yes,No,5,5,5,5,5,5,5,Yes,Vision
+138,Yes,20,Male,Yes,Yes,3,4,4,4,3,3,4,Yes,Passion
+139,No,20,Male,No,Yes,2,2,3,2,3,3,2,Yes,Resilience
+140,Yes,20,Male,Yes,Yes,4,5,5,5,4,5,4,No,Work Ethic
+141,Yes,20,Male,Yes,Yes,3,4,3,5,5,5,5,No,Passion
+142,Yes,20,Male,Yes,No,4,4,4,4,4,4,4,No,Positivity
+143,Yes,20,Male,Yes,Yes,2,2,2,2,2,2,2,No,Vision
+144,Yes,20,Male,Yes,Yes,3,4,3,5,4,3,2,Yes,Positivity
+145,No,21,Male,No,Yes,3,4,3,4,5,3,4,Yes,Passion
+146,Yes,20,Male,No,No,3,4,5,5,3,4,4,No,Passion
+147,No,19,Male,Yes,No,3,1,3,4,3,3,5,No,Passion
+148,Yes,20,Male,No,Yes,4,4,4,4,5,5,5,No,Positivity
+149,No,18,Female,Yes,Yes,4,3,4,4,4,5,5,Yes,Positivity
+150,No,22,Male,Yes,No,2,3,2,3,3,3,3,No,Positivity
+151,No,19,Male,Yes,Yes,2,3,2,3,2,2,1,No,Passion
+152,No,19,Female,Yes,Yes,2,2,2,2,2,2,2,Yes,Positivity
+153,No,17,Female,Yes,No,3,2,1,3,3,2,3,No,Positivity
+154,No,18,Female,Yes,Yes,2,1,3,1,2,3,4,No,Work Ethic
+155,Yes,20,Female,Yes,No,2,2,2,2,2,1,3,No,Positivity
+156,Yes,19,Male,Yes,Yes,4,5,5,5,5,4,4,No,Positivity
+157,No,22,Female,Yes,Yes,4,3,4,5,5,4,3,No,Positivity
+158,Yes,21,Male,Yes,Yes,2,1,2,2,2,1,1,No,Vision
+159,No,20,Female,No,Yes,2,1,1,2,2,2,1,No,Resilience
+160,No,21,Male,No,No,1,1,1,1,5,5,5,No,Passion
+161,Yes,25,Female,Yes,Yes,4,4,3,3,3,4,4,No,Passion
+162,Yes,22,Male,No,Yes,2,1,2,3,2,3,3,Yes,Vision
+163,Yes,21,Male,No,Yes,2,2,3,3,3,3,3,No,Passion
+164,Yes,21,Male,Yes,No,4,4,4,3,4,5,5,No,Passion
+165,Yes,18,Male,Yes,Yes,5,5,5,5,5,5,5,No,Vision
+166,No,19,Female,Yes,No,4,5,5,5,5,5,5,Yes,Vision
+167,Yes,22,Female,Yes,No,3,3,3,3,3,3,2,No,Positivity
+168,No,21,Female,Yes,Yes,4,5,5,5,5,4,2,Yes,Positivity
+169,Yes,20,Male,Yes,Yes,4,4,4,4,4,4,4,Yes,Work Ethic
+170,Yes,18,Female,Yes,Yes,4,3,4,4,3,3,4,No,Passion
+171,No,18,Male,No,Yes,3,3,4,4,4,3,4,No,Passion
+172,Yes,21,Male,Yes,Yes,3,4,4,4,5,4,5,Yes,Passion
+173,Yes,19,Female,Yes,No,2,2,2,2,1,2,2,No,Passion
+174,Yes,20,Male,Yes,Yes,2,3,3,3,3,3,3,No,Work Ethic
+175,Yes,20,Male,No,Yes,2,1,1,2,3,1,3,No,Passion
+176,Yes,20,Female,Yes,Yes,4,5,5,4,5,5,5,No,Work Ethic
+177,Yes,19,Female,Yes,Yes,4,5,5,5,5,5,5,No,Passion
+178,No,19,Female,No,No,2,2,1,2,2,2,3,No,Positivity
+179,No,18,Male,Yes,Yes,3,3,2,2,3,3,2,No,Work Ethic
+180,Yes,20,Female,Yes,No,4,5,4,4,3,5,5,Yes,Passion
+181,Yes,22,Male,No,Yes,4,3,4,4,5,3,4,No,Passion
+182,Yes,19,Male,Yes,Yes,4,3,3,4,4,3,3,No,Work Ethic
+183,Yes,19,Male,Yes,Yes,3,4,5,5,4,4,2,No,Work Ethic
+184,No,20,Male,Yes,Yes,4,5,5,4,5,4,5,Yes,Passion
+185,Yes,19,Male,Yes,Yes,3,4,3,4,5,4,4,No,Vision
+186,No,17,Male,Yes,Yes,5,5,4,4,5,5,4,No,Positivity
+187,No,21,Female,No,Yes,3,1,2,3,2,2,1,Yes,Passion
+188,Yes,20,Female,Yes,No,4,4,4,4,4,4,2,Yes,Work Ethic
+189,No,18,Female,Yes,No,4,5,3,2,3,1,1,Yes,Passion
+190,No,17,Male,No,Yes,3,4,4,2,3,2,3,No,Passion
+191,Yes,21,Female,Yes,No,4,5,4,5,4,4,4,Yes,Positivity
+192,Yes,19,Female,No,Yes,4,4,4,5,4,4,4,No,Passion
+193,Yes,20,Male,Yes,Yes,2,3,2,3,2,3,2,No,Positivity
+194,No,20,Male,Yes,Yes,4,4,4,5,4,4,4,No,Work Ethic
+195,No,19,Male,Yes,Yes,5,5,5,5,5,5,5,No,Positivity
+196,Yes,19,Female,Yes,No,3,4,5,4,4,3,3,Yes,Work Ethic
+197,Yes,20,Male,Yes,Yes,3,4,5,5,4,5,5,No,Positivity
+198,Yes,19,Male,Yes,Yes,4,5,5,5,4,5,4,No,Passion
+199,No,19,Male,Yes,No,3,3,3,3,3,3,3,No,Positivity
+200,Yes,20,Male,Yes,Yes,4,4,4,4,4,5,3,No,Work Ethic
+201,No,19,Male,No,Yes,4,5,5,4,4,4,5,No,Positivity
+202,Yes,17,Male,Yes,Yes,4,5,5,3,4,4,4,No,Vision
+203,Yes,20,Female,Yes,Yes,3,4,3,4,3,4,3,Yes,Positivity
+204,Yes,20,Female,Yes,Yes,2,3,3,2,3,2,2,No,Passion
+205,Yes,20,Male,Yes,Yes,4,4,5,3,4,4,5,Yes,Positivity
+206,Yes,21,Male,Yes,Yes,4,5,4,5,4,4,3,Yes,Positivity
+207,Yes,21,Female,No,No,2,2,3,3,3,3,2,No,Positivity
+208,No,20,Male,Yes,No,4,5,4,4,5,5,5,No,Vision
+209,Yes,19,Male,Yes,No,2,2,3,3,2,2,3,No,Positivity
+210,Yes,20,Female,Yes,Yes,2,3,2,3,3,3,2,No,Passion
+211,No,19,Male,Yes,Yes,4,5,5,5,5,5,5,Yes,Vision
+212,Yes,20,Female,Yes,Yes,4,5,5,4,4,5,5,No,Work Ethic
+213,No,19,Male,Yes,No,3,2,3,3,4,2,4,Yes,Work Ethic
+214,Yes,19,Male,Yes,Yes,4,5,4,3,4,4,5,Yes,Positivity
+215,Yes,19,Male,Yes,No,2,2,2,2,2,2,2,No,Work Ethic
+216,Yes,22,Female,Yes,Yes,3,4,4,3,4,4,3,No,Vision
+217,No,19,Male,Yes,No,1,2,2,3,3,2,2,No,Passion
+218,Yes,18,Male,No,Yes,3,5,3,5,5,5,2,No,Passion
