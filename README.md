@@ -11,8 +11,11 @@ Run this notebook we need to install following package in your environment.
 6. sklearn
 
 ## Datasets
+These datasets are part of #BuildwithAI 2021 Hackathon. Its originally came from kaggle. here are the link of the both datasets. 
 
-## Challanges
+1. xAPI-Edu-Data.csv - https://www.kaggle.com/aljarah/xAPI-Edu-Data
+2. data.csv - https://www.kaggle.com/namanmanchanda/entrepreneurial-competency-in-university-students
 
-## Stepes
+Second datasets we did modify for our purpose. 
+
 
